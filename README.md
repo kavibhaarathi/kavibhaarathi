@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kavi Bharathi
+# Hi 👋, I'm KaviBharathi
 
 ### 🚀 Cloud Computing | Python Developer | React Developer | AI Enthusiast
 
